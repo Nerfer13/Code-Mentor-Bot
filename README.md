@@ -30,3 +30,5 @@ Copy `backend/.env.example` to `backend/.env` and fill values.
 - Backend: Railway/Fly/Render or any Node host with HTTPS
 - Telegram bot: use webhook mode in production
 - Frontend: Vercel static hosting
+git branch -M main
+git push -u origin main
